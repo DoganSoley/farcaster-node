@@ -24,7 +24,7 @@ sudo apt install screen -y
 ```
 Screen açalım
 ```
-screen -S Farcaster
+screen -S farcaster
 ```
 Node yükleme kodunu girelim 
 
