@@ -33,7 +33,7 @@ curl -sSL https://download.thehubble.xyz/bootstrap.sh | bash
 ```
 
 Daha sonra bizden ETH Mainnet ve OP Mainnet rpc isteyecek infuradan aldığımız rpcleri girelim.
-Daha sonra uygulamadaki Kullanıcı ID numarasını isteyecek onu da girelim.
+Daha sonra Warpcast uygulamasındaki Kullanıcı ID numarasını isteyecek onu da girelim.
 
 Yükleme bittikten sonra loglar akmaya başlayacak CTRL + A + D tuşlarıyla screen'den çıkabilirsiniz.
 
