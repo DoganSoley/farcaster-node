@@ -2,13 +2,13 @@
 # Farcaster Node Sunucu Gereksinimleri
 
 16 GB RAM
+
 4 GB CPU
+
 40 GB SSD
 
 Ben contabo'nun 9.50€'luk 16GB RAM - 6GB CPU - 200GB SSD sunucusunu kullanıcam.
-
 Sunucuya bağlandıktan sonra sırasıyla.
-
 Güncellemeler
 
 ```
