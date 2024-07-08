@@ -1,3 +1,4 @@
+![image](https://github.com/DoganSoley/farcaster-node/assets/110679236/0db04e12-cd8d-4738-94b3-1dcf6d0294ff)
 # Farcaster Node Sunucu Gereksinimleri
 
 16 GB RAM
@@ -44,7 +45,7 @@ screen -r farcaster
 ```
 Yazarak kontrol edebilirsiniz.
 
-Eğerki güncelleme gelirse güncelleme kodu
+Eğerki güncelleme gelirse güncelleme kodu(sunucuya bağlandıktan sonra)
 
 ```
 cd ~/hubble && ./hubble.sh upgrade
