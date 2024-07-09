@@ -53,5 +53,5 @@ Eğerki güncelleme gelirse güncelleme kodu(sunucuya bağlandıktan sonra)
 cd ~/hubble && ./hubble.sh upgrade
 ```
 
-Bu şekilde görünüyorsa sorunsuz çalışıyordur;
+Bu şekilde görünüyorsa sorunsuz çalışıyordur(kurduktan yaklaşık 5-6 saat sonra);
 ![image](https://github.com/DoganSoley/farcaster-node/assets/110679236/c621f419-f219-40fc-94bc-732293ecc249)
