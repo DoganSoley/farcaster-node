@@ -9,6 +9,8 @@
 
 Ben contabo'nun 9.50€'luk 16GB RAM - 6GB CPU - 400GB SSD sunucusunu kullanıcam.
 
+Ben alırken setup fee yoktu ama kaldırmışlar onu sanırım sunucuyu alırken setup fee'ye dikkat edin alternatif olarak hetzneri de kullanabilirsiniz.
+
 Sunucuya bağlandıktan sonra sırasıyla.
 
 Güncellemeler
