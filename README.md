@@ -1,4 +1,5 @@
 ![image](https://github.com/DoganSoley/farcaster-node/assets/110679236/0db04e12-cd8d-4738-94b3-1dcf6d0294ff)
+
 Kurulum videosu : https://youtu.be/4YmhkSM9ncg
 
 # Farcaster Node Sunucu Gereksinimleri
