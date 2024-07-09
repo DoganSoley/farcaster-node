@@ -37,8 +37,9 @@ Node yükleme kodunu girelim
 curl -sSL https://download.thehubble.xyz/bootstrap.sh | bash
 ```
 
-Daha sonra bizden ETH Mainnet ve OP Mainnet rpc isteyecek infuradan aldığımız rpcleri girelim.
-Daha sonra Warpcast uygulamasındaki Kullanıcı ID numarasını isteyecek onu da girelim.
+Daha sonra bizden ETH Mainnet ve OP Mainnet rpc isteyecek infura.io sitesinden aldığımız rpcleri girelim.
+
+Daha sonra Warpcast uygulamasındaki Kullanıcı ID numarasını isteyecek Warpcast uygulamasını indirip kayıt olup onu da girelim.(yıllık 5$ kayıt ücreti var)
 
 Yükleme bittikten sonra loglar akmaya başlayacak CTRL + A + D tuşlarıyla screen'den çıkabilirsiniz.
 
