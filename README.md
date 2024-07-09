@@ -39,7 +39,7 @@ Yükleme bittikten sonra loglar akmaya başlayacak CTRL + A + D tuşlarıyla scr
 
 Kurulum bu kadar 
 
-Kontrol etmek için tarayıcıya ipadresi:3000 yazıp node durumunu görebilirsiniz.
+Kontrol etmek için tarayıcıya sunucuipadresi:3000 yazıp node durumunu görebilirsiniz.
 
 Sunucu içerisine girip kontrol etmek için sunucuya bağlandıktan sonra 
 ```
