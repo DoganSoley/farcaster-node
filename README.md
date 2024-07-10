@@ -60,4 +60,5 @@ cd ~/hubble && ./hubble.sh upgrade
 ```
 
 Bu şekilde görünüyorsa sorunsuz çalışıyordur(kurduktan yaklaşık 5-6 saat sonra);
-![image](https://github.com/DoganSoley/farcaster-node/assets/110679236/c621f419-f219-40fc-94bc-732293ecc249)
+![image](https://github.com/DoganSoley/farcaster-node/assets/110679236/cc88de5f-f2ba-45e4-8114-59da93da4122)
+
