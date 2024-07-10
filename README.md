@@ -53,11 +53,26 @@ screen -r farcaster
 ```
 Yazarak kontrol edebilirsiniz.
 
+
+# Güncelleme
+
 Eğerki güncelleme gelirse güncelleme kodu(sunucuya bağlandıktan sonra)
 
 ```
 cd ~/hubble && ./hubble.sh upgrade
 ```
+Yükleme bitip loglar akmaya başladıktan sonra CTRL + C yapın veya terminali kapatıp tekrar bağlanın daha sonra ;
+```
+screen -r farcaster
+```
+```
+cd ~/hubble && ./hubble.sh logs
+```
+
+Yazarak logları kontrol edin sorunsuz bir şekilde akıyorsa terminali kapatıp çıkabilirsiniz.
+
+sunucuipadresi:3000 yazıp kontrol ettiğinizde version'u kontrol edebilirsiniz.
+
 
 Bu şekilde görünüyorsa sorunsuz çalışıyordur(kurduktan yaklaşık 5-6 saat sonra);
 ![image](https://github.com/DoganSoley/farcaster-node/assets/110679236/cc88de5f-f2ba-45e4-8114-59da93da4122)
