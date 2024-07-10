@@ -47,6 +47,9 @@ Kurulum bu kadar
 
 Kontrol etmek için tarayıcıya sunucuipadresi:3000 yazıp node durumunu görebilirsiniz.
 
+Bu şekilde görünüyorsa sorunsuz çalışıyordur(kurduktan yaklaşık 5-6 saat sonra);
+![image](https://github.com/DoganSoley/farcaster-node/assets/110679236/cc88de5f-f2ba-45e4-8114-59da93da4122)
+
 Sunucu içerisine girip kontrol etmek için sunucuya bağlandıktan sonra 
 ```
 screen -r farcaster
@@ -72,7 +75,4 @@ cd ~/hubble && ./hubble.sh logs
 Yazarak logları kontrol edin sorunsuz bir şekilde akıyorsa terminali kapatıp çıkabilirsiniz.
 
 Tarayıcıya sunucuipadresi:3000 yazıp version'u kontrol edebilirsiniz.
-
-Bu şekilde görünüyorsa sorunsuz çalışıyordur(kurduktan yaklaşık 5-6 saat sonra);
-![image](https://github.com/DoganSoley/farcaster-node/assets/110679236/cc88de5f-f2ba-45e4-8114-59da93da4122)
 
