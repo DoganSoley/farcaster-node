@@ -71,8 +71,7 @@ cd ~/hubble && ./hubble.sh logs
 
 Yazarak logları kontrol edin sorunsuz bir şekilde akıyorsa terminali kapatıp çıkabilirsiniz.
 
-sunucuipadresi:3000 yazıp kontrol ettiğinizde version'u kontrol edebilirsiniz.
-
+Tarayıcıya sunucuipadresi:3000 yazıp version'u kontrol edebilirsiniz.
 
 Bu şekilde görünüyorsa sorunsuz çalışıyordur(kurduktan yaklaşık 5-6 saat sonra);
 ![image](https://github.com/DoganSoley/farcaster-node/assets/110679236/cc88de5f-f2ba-45e4-8114-59da93da4122)
