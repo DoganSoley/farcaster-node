@@ -50,7 +50,9 @@ Kurulum bu kadar
 Kontrol etmek için tarayıcıya sunucuipadresi:3000 yazıp node durumunu görebilirsiniz.
 
 Bu şekilde görünüyorsa sorunsuz çalışıyordur(kurduktan yaklaşık 5-6 saat sonra);
-![image](https://github.com/user-attachments/assets/9f2671be-207d-456f-bbe4-5d57aacbd0f6)
+
+![image](https://github.com/user-attachments/assets/7944fb93-34e5-4d00-bd78-f5c20db46bef)
+
 
 
 
